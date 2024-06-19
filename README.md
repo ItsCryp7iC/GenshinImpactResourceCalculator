@@ -1,0 +1,2 @@
+# GenshinImpactResourceCalculator
+Genshin Impact Resource Calculator
