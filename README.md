@@ -57,15 +57,13 @@ This project is licensed under the MIT License. It's free to use, modify, and sh
 
 ## Acknowledgements
 
-Special thanks to [ItsCryp7iC](https://github.com/ItsCryp7iC) for their contributions to this project.
+Special thanks to [ChatGPT](https://www.openai.com/chatgpt) for assisting with the development of this project.
 
 ## Contact
 
 For any questions or feedback, please reach out to [Emon Hasan Nayeem](mailto:its3m0n@gmail.com).
 
 ## Credits
-
-Special thanks to [ChatGPT](https://www.openai.com/chatgpt) for assisting with the development of this project.
 
 ---
 
