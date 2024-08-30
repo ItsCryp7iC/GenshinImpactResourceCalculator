@@ -24,7 +24,8 @@ The Genshin Impact Resource Calculator is a comprehensive tool designed to help 
 
 ### Prerequisites
 
-- **Microsoft Excel**: Ensure you have Excel installed on your computer. 
+- **Microsoft Excel**: Ensure you have Excel installed on your computer.
+- **Font**: Please install "SDK_JP_Web.ttf" font for better visuals.
 - This file contains macros, so you must unblock it to access all features.
 
 ### Steps
